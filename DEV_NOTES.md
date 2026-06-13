@@ -19,3 +19,6 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-06-13
 - Checked for memory leaks in long-running path
 - Improved error handling in edge cases
+
+## 2026-06-13
+- Resolved TODO items from previous session
