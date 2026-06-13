@@ -15,3 +15,7 @@ Personal development log — notes, findings, and ongoing work.
 - Resolved deprecation warnings
 - Added basic usage examples to README
 - Documented config options
+
+## 2026-06-13
+- Checked for memory leaks in long-running path
+- Improved error handling in edge cases
