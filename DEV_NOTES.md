@@ -22,3 +22,8 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-06-13
 - Resolved TODO items from previous session
+
+## 2026-06-13
+- Updated license year
+- Bumped patch version
+- Documented config options
